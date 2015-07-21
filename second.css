@@ -1,4 +1,4 @@
-@import '~STYLE/common.css';
+@import './common/common.css';
 
 .second {
   color: blue;

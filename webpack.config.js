@@ -15,11 +15,5 @@ module.exports = {
   },
   plugins: [
     new ExtractTextPlugin('[name].css')
-  ],
-  resolve: {
-    root: __dirname,
-    alias: {
-      STYLE: './common'
-    }
-  }
+  ]
 }
