@@ -1,3 +1,3 @@
-require('./first.less')
+require('./first.css')
 
 module.exports = 'Hello first'

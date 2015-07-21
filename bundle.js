@@ -44,27 +44,27 @@
 /* 0 */
 /***/ function(module, exports, __webpack_require__) {
 
-	var module1 = __webpack_require__(2)
+	var module1 = __webpack_require__(1)
 	var module2 = __webpack_require__(7)
 
 
 /***/ },
-/* 1 */,
-/* 2 */
+/* 1 */
 /***/ function(module, exports, __webpack_require__) {
 
-	__webpack_require__(3)
+	__webpack_require__(2)
 
 	module.exports = 'Hello first'
 
 
 /***/ },
-/* 3 */
+/* 2 */
 /***/ function(module, exports) {
 
 	// removed by extract-text-webpack-plugin
 
 /***/ },
+/* 3 */,
 /* 4 */,
 /* 5 */,
 /* 6 */,

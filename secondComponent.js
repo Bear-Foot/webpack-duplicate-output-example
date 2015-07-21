@@ -1,3 +1,3 @@
-require('./second.less')
+require('./second.css')
 
 module.exports = 'Hello second'
