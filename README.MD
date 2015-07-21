@@ -1,4 +1,4 @@
-A little repo to illustrate css duplication with webpack extract text plugin
+A little repo to illustrate css duplication with webpack extract text plugin and less-loader
 
 npm i
 npm run build
