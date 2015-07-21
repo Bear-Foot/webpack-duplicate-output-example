@@ -1,0 +1,25 @@
+{
+  "name": "webpack-duplicate-extract-text-demo",
+  "version": "1.0.0",
+  "description": "A little repo to illustrate css duplication with webpack extract text plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.js"
+  },
+  "keywords": [
+    "webpack",
+    "extract-text-plugin"
+  ],
+  "author": "Wilfried Boukhers",
+  "license": "MIT",
+  "devDependencies": {
+    "css-loader": "^0.15.5",
+    "extract-text-webpack-plugin": "^0.8.2",
+    "less": "^2.5.1",
+    "less-loader": "^2.2.0",
+    "node-libs-browser": "^0.5.2",
+    "style-loader": "^0.12.3",
+    "webpack": "^1.10.1"
+  }
+}
